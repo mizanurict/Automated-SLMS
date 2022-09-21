@@ -53,7 +53,6 @@ else
   padding: 150px 0px;
   height: 200px; /* Should be removed. Only for demonstration */
 }
-/* Clear floats after thennncncnncncnc columns */
 /* Clear floats after the columns */
 .row:after {
   content: "";
